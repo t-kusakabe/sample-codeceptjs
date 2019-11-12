@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "kusakabe-lvgs <takuto.kusakabe@leverages.jp>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "codeceptjs": "^2.3.5",
+    "puppeteer": "^2.0.0"
+  }
 }
